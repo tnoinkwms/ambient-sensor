@@ -6,8 +6,9 @@ The bio-electric potential goes up and down depending on the tree's environment 
 
 ## Contain
 1. README.md
-2. display.pde
-3. sensor.ino
+2. display_test.pde
+4. display.pde
+5. sensor.ino
 
 ## How to use
 1. Install Processing 3.5.4
