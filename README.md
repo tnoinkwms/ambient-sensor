@@ -7,7 +7,7 @@ The bio-electric potential goes up and down depending on the tree's environment 
 ## Contain
 1. README.md
 2. display_test.pde
-4. display.pde
+4. secondaary_display.pde
 5. primary_display.pde
 7. sensor.ino
 
