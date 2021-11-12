@@ -22,3 +22,6 @@ Connect the red terminal to the tree trunk, the black thermal to the root. Pleas
 4. Connect Arduino with your PC
 5. Run "display.pde"
 ![image2](https://github.com/tnoinkwms/ambient-sensor/blob/images/Java%20Screenshot%202021.11.08%20-%2004.18.39.76.png)
+  
+## Design of Circuit
+I refer to [this page](https://special.ycam.jp/interlab/projects/forestsymphony.html). Thank you for YCAM Inter-Lab!!!!
